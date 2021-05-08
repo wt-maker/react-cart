@@ -1,0 +1,8 @@
+.cart {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.item-cart {
+  display: flex;
+}
